@@ -43,4 +43,4 @@ Input parameters are:
 
 ## Authors
 
-* **Nitin Kumar** - *Initial work* - [Nitin Kumar](https://github.com/nitinprajapati)
+* **DevKnightr** - *Initial work* - [DevKnight](https://github.com/BenBarker0311)
